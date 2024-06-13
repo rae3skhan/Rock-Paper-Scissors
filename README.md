@@ -38,5 +38,8 @@ To start the game, run the following command in your terminal:
 ```bash
 node script.js
 ```
-## Contribution
+## Contributing
 Contributions are welcome! Please feel free to submit a Pull Request.
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
